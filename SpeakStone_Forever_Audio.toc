@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: SpeakStone Narration - Forever Audio (all quests)
+## Notes: All WoW Forever quest audio (inherited Classic + Forever-only) for SpeakStone Narration. Requires SpeakStone_Forever_Main.
+## Author: Nerf, SpeakStone@beanw.co.uk
+## Version: 1.5.0
+
+## RequiredDeps: SpeakStone_Forever_Main
+
+SoundLengths.lua
+Register.lua
